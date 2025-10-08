@@ -1,0 +1,7 @@
+{
+  "name": "VibeStream - YT Music Player",
+  "description": "A sleek, modern music player interface designed to work with YouTube Music APIs, featuring a beautiful dark mode, audio visualization, and a seamless playback experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
